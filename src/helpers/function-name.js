@@ -3,6 +3,8 @@
  * for required pages.
  *
  * Ex: button-hover.js, random-interaction.js, etc
+ *
+ * Add or edit this file name as per needed
  */
 
 export const functionName = () => {

@@ -2,6 +2,6 @@
 
 Developer Starter Template for Webflow Projects using Webpack.
 
-## Authors
+## Author
 
 - [@azizqamar7](https://www.github.com/azizqamar7)

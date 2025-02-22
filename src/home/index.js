@@ -4,4 +4,5 @@
  * Add or delete these files as per needed.
  */
 
-console.log('Hello from Home folder')
+console.log("Hello from Home folder");
+alert("Hello from Home folder");

@@ -1,6 +1,6 @@
 # Webflow Developer Starter Template
 
-Developer Starter Template for Webflow Projects using Webpack.
+Developer Starter Template for Webflow Projects using Webpack. Updated on GitHub
 
 ## Author
 
